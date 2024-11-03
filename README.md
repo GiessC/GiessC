@@ -1,18 +1,3 @@
-<!--
-**GiessC/GiessC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 🏌️ Collin Giess
 
 **`Software Engineer`**
@@ -52,3 +37,12 @@ Here are some ideas to get you started:
 <h3>📊 Stats</h3>
 
 ![Collin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiessC&show_icons=true&theme=merko&hide=)
+
+#
+
+<details>
+    <summary>
+        <h3>My Coding Journey</h3>
+    </summary>
+    I started coding when I was about 12 years old. I was learning Lua at the time to create minigames for a video game I liked. I was playing around with printing and getting text input from the user, and I would create choose-your-own-adventure games and loved to have my parents play them. I was lucky enough to have computer science courses offered at my high school, where I began learning Java, and eventually created Tetris for my final project. After taking those classes, I knew software engineering was the right career for me, and decided to go to the Rochester Institute of Technology to get my Bachelor's degree in Software Engineering. As I approach graduation (May 2025), I strive to constantly learn, mastering new technologies and gaining more experience with the cloud, even getting my Certified Cloud Practitioner certification from AWS. Next up is Solutions Architect Associate!
+</details>
