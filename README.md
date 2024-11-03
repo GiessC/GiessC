@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **`Software Engineer`**
 
 <p align='left'>
-    <a href="https://www.linkedin.com/in/cgiess/">
+    <a href="https://www.linkedin.com/in/cgiess/" target="_blank">
         <img alt="LinkedIn" title="Check me out on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
     </a>
 </p>
