@@ -21,6 +21,9 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/cgiess/" target="_blank">
         <img alt="LinkedIn" title="Check me out on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
     </a>
+    <a href="mailto:collin@giess.xyz">
+        <img alt="collin@giess.xyz" title="Contact me via email" src="https://custom-icon-badges.demolab.com/badge/Email-collin%40giess.xyz-orange?style=for-the-badge&logo=mail" />
+    </a>
 </p>
 
 ---
