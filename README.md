@@ -37,4 +37,5 @@ Here are some ideas to get you started:
 </p>
 
 <h3>📊 Stats</h3>
-![Collin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiessC&show_icons=true&theme=merko)(https://github.com/anuraghazra/github-readme-stats)
+
+![Collin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiessC&show_icons=true&theme=merko&hide=)
