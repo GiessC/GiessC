@@ -35,3 +35,6 @@ Here are some ideas to get you started:
     <img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" />
     <img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" />
 </p>
+
+<h3>📊 Stats</h3>
+![Collin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiessC&show_icons=true&theme=merko)(https://github.com/anuraghazra/github-readme-stats)
