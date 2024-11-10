@@ -34,6 +34,13 @@
     <img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" />
 </p>
 
+<h3>📂 Favorite Projects</h3>
+<ul>
+    <li>
+        <a href="https://github.com/GiessC/todo">Serverless To-do (AWS)</a>
+    </li>
+</ul>
+
 <h3>📊 Stats</h3>
 
 ![Collin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiessC&show_icons=true&theme=merko&hide=)
