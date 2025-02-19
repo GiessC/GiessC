@@ -1,6 +1,6 @@
 # 🏌️ Collin Giess
 
-**`Full-Stack Software Engineer | Cloud & Serverless Enthusiast`**
+**`Full-Stack Software Engineer | Cloud Enthusiast`**
 
 <p align='left'>
     <a href="https://www.linkedin.com/in/cgiess/" target="_blank">
