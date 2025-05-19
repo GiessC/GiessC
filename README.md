@@ -36,3 +36,6 @@
 <h3>📊 Stats</h3>
 
 ![Collin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiessC&show_icons=true&theme=merko&hide=)
+
+# Projects
+- Weather App [GitHub](https://github.com/GiessC/weather) [Demo](https://d2lhx1lsvtx3k9.cloudfront.net/)
